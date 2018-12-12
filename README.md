@@ -1,4 +1,4 @@
-# EJ2 Angular 4 DatePicker Quick Start
+# EJ2 Angular 4 DateRangePicker Quick Start
 A quick start project that helps you to create the Syncfusion Angular 4 DateRangePicker.
 
 ![Angular 4 DateRangePicker](angular4daterangepicker.png "Angular 4 DateRangePicker")
@@ -11,8 +11,8 @@ To run this application, you need to first clone the `ej2-angular-4-daterangepic
 To do so, open the command prompt and run the below commands one after the other.
 
 ```
-git clone https://github.com/SyncfusionSamples/ej2-ej2-angular-4-daterangepicker ej2-angular-4-datepicker
-cd ej2-angular-4-datepicker
+git clone https://github.com/SyncfusionSamples/ej2-angular-4-daterangepicker ej2-angular-4-daterangepicker
+cd ej2-angular-4-daterangepicker
 ```
 
 ## Installing
