@@ -1,7 +1,7 @@
 # EJ2 Angular 4 DatePicker Quick Start
 A quick start project that helps you to create the Syncfusion Angular 4 DateRangePicker.
 
-![Angular 4 DateRangePicker]()
+![Angular 4 DateRangePicker](angular4daterangepicker.png "Angular 4 DateRangePicker")
 
 This is a Angular 4 project generated using [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10. 
 
