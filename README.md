@@ -11,7 +11,7 @@ To run this application, you need to first clone the `ej2-angular-4-daterangepic
 To do so, open the command prompt and run the below commands one after the other.
 
 ```
-git clone https://github.com/SyncfusionSamples/ej2-angular-4-daterangepicker ej2-angular-4-daterangepicker
+git clone https://github.com/SyncfusionExamples/ej2-angular-4-daterangepicker ej2-angular-4-daterangepicker
 cd ej2-angular-4-daterangepicker
 ```
 
